@@ -164,7 +164,7 @@ git push -u origin main
 
 3. **Get your link**: 
    ```
-   https://meeting-scheduler-agent-xxxxx.streamlit.app
+   https://meeting-scheduler-agent-genai4genz.streamlit.app/
    ```
 
 ## Example Use Cases
